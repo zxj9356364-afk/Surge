@@ -1,5 +1,5 @@
-# China Direct
-# optimized from Personal customization
+# >>> 个人定制直连规则优化版 (Personal Customization) <<<
+
 # 英雄联盟壁纸
 DOMAIN-SUFFIX,ghostoact.com
 
@@ -7,10 +7,12 @@ DOMAIN-SUFFIX,ghostoact.com
 DOMAIN-SUFFIX,obrase.com
 DOMAIN-SUFFIX,hosonshop.com
 
-# 浏览器主题插件
+# 浏览器主题插件 (iTab/Codelife)
 DOMAIN-SUFFIX,codelife.cc
 
-# 贝壳找房
+# 贝壳找房 & 链家 (含图片CDN及API服务)
 DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,lianjia.org
 DOMAIN-SUFFIX,ke.com
 DOMAIN-SUFFIX,ljcdn.com
+DOMAIN-SUFFIX,bkjk.com
