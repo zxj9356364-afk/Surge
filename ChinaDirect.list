@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,hosonshop.com
 
 # 浏览器主题插件 (iTab/Codelife)
 DOMAIN-SUFFIX,codelife.cc
+DOMAIN-SUFFIX,itab.link
 
 # 贝壳找房 & 链家 (含图片CDN及API服务)
 DOMAIN-SUFFIX,lianjia.com
