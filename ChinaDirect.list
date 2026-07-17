@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,bkjk.com
 
 # 企查查
 DOMAIN-SUFFIX,qcc.com
+
+# 中国地区AI
+DOMAIN-SUFFIX,deepseek.com
