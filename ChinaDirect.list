@@ -21,5 +21,11 @@ DOMAIN-SUFFIX,bkjk.com
 # 企查查
 DOMAIN-SUFFIX,qcc.com
 
+# 乐读
+DOMAIN-SUFFIX,magic-school.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xescdn.com
+DOMAIN-SUFFIX,vdyoo.com
+
 # 中国地区AI
 DOMAIN-SUFFIX,deepseek.com
