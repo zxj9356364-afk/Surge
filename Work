@@ -1,0 +1,41 @@
+# >>> 个人定制直连规则优化版 (Personal Customization) <<<
+
+# 英雄联盟壁纸
+DOMAIN-SUFFIX,ghostoact.com
+
+# 手机壳定制
+DOMAIN-SUFFIX,obrase.com
+DOMAIN-SUFFIX,hosonshop.com
+
+# 浏览器主题插件 (iTab/Codelife)
+DOMAIN-SUFFIX,codelife.cc
+DOMAIN-SUFFIX,itab.link
+
+# 贝壳找房 & 链家 (含图片CDN及API服务)
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,lianjia.org
+DOMAIN-SUFFIX,ke.com
+DOMAIN-SUFFIX,ljcdn.com
+DOMAIN-SUFFIX,bkjk.com
+
+# 企查查
+DOMAIN-SUFFIX,qcc.com
+
+# 乐读
+DOMAIN-SUFFIX,magic-school.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xescdn.com
+DOMAIN-SUFFIX,vdyoo.com
+DOMAIN-SUFFIX,volcvideo.com
+DOMAIN-SUFFIX,jiaoyanyun.com
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,ledupeiyou.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,vdyoo.com
+
+# 中国地区AI
+DOMAIN-SUFFIX,deepseek.com
+
+# 飞牛
+DOMAIN-SUFFIX,fnnas.com
